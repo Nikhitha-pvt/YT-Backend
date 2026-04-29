@@ -1,4 +1,4 @@
-# 🎬 YT Backend
+# 🎬 StreamHub Backend
 
 A robust, scalable backend for a YouTube-like video sharing platform. Built with Node.js and Express, this project supports user authentication, video uploads, comments, likes, playlists, subscriptions, and more.
 
@@ -19,10 +19,22 @@ A robust, scalable backend for a YouTube-like video sharing platform. Built with
 
 ## 🏗️ System Architecture
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/07b84e0b-365c-4261-965b-8a37fde1cb01" />
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/07b84e0b-365c-4261-965b-8a37fde1cb01" />
 
 
 ---
+
+
+## 🗄️ Database Architecture
+
+View full database design:  
+👉 https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj  
+
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/126f10d8-b955-4f0a-8288-9a5ccba32054" /> 
+
+---
+
+
 
 ## 🛠️ Project Structure
 
