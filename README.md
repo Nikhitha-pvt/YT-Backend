@@ -19,18 +19,8 @@ A robust, scalable backend for a YouTube-like video sharing platform. Built with
 
 ## 🏗️ System Architecture
 
-```mermaid
-graph TD;
-    Client[Client (Frontend)] -->|REST API| Backend[Express.js Backend]
-    Backend -->|CRUD| DB[(Database)]
-    Backend -->|Media| Cloudinary[Cloudinary]
-    Backend -->|Routes| Controllers
-    Controllers --> Models
-    Controllers --> Middlewares
-    Models --> DB
-    Middlewares --> Auth[Authentication]
-    Middlewares --> Multer[Multer (File Uploads)]
-```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/07b84e0b-365c-4261-965b-8a37fde1cb01" />
+
 
 ---
 
